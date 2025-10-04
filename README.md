@@ -3,7 +3,7 @@
 ## Getting Started
 Download application: 
 ```bash
-git clone https://github.com/laurieroy/next-stocks-app
+  git clone git@github.com:laurieroy/next-stocks-app.git
 ```
 and cd into whatever you named it
 
