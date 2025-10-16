@@ -1,5 +1,8 @@
 # Signalist - A stocks app
 
+## Tech Stack
+- CodeRabbit AI-powered code review
+- TradingView 
 ## Getting Started
 Download application: 
 ```bash
